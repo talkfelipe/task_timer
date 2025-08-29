@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# Bundler
+/vendor/
+/.bundle/
+
+# Logs and temp
+/log/
+/tmp/
+
+# Data
+/server/data/
+/server/*.db
